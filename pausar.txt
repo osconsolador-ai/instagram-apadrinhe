@@ -1,0 +1,3 @@
+# Escreva aqui (uma por linha) as datas que NÃO devem ser publicadas, no formato AAAA-MM-DD.
+# Exemplo:
+# 2026-10-23

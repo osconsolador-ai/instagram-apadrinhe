@@ -1,0 +1,65 @@
+name: Publicar no Instagram
+
+on:
+  schedule:
+    - cron: "0 21 * * *"   # 21h UTC = 18h em Brasília (pode atrasar alguns minutos)
+  workflow_dispatch:
+    inputs:
+      data:
+        description: "Publicar agora o post desta data (AAAA-MM-DD). Deixe vazio para o post de hoje."
+        required: false
+      so_conferir:
+        description: "Só conferir (dry-run + token), sem publicar"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicar-instagram
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    # O agendamento diário só roda quando a variável AGENDAMENTO_ATIVO = sim (veja o README).
+    if: github.event_name == 'workflow_dispatch' || vars.AGENDAMENTO_ATIVO == 'sim'
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      IG_TOKEN: ${{ secrets.IG_TOKEN }}
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Calendário (dry-run)
+        run: python publicar.py --dry-run
+
+      - name: Conferir token
+        run: python publicar.py --verificar-token
+
+      - name: Publicar
+        if: ${{ !inputs.so_conferir }}
+        env:
+          DATA: ${{ inputs.data }}
+        run: |
+          if [ -n "$DATA" ]; then
+            python publicar.py --data "$DATA"
+          else
+            python publicar.py
+          fi
+
+      - name: Salvar registro do que foi publicado
+        if: always() && !inputs.so_conferir
+        run: |
+          git config user.name "publicador-automatico"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add publicados.json log.txt calendario.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "Registro de publicação $(TZ=America/Sao_Paulo date '+%d/%m/%Y %H:%M')"
+            git push
+          fi
