@@ -260,22 +260,56 @@ def converter(pasta):
         print(f"{png.name} -> posts/{destino.name}")
 
 
-def dry_run(entradas, problemas):
+def situacao(data, publicados, pausa):
     hoje = agora().date().isoformat()
+    if data in publicados:
+        return "publicado"
+    if data in pausa:
+        return "pausado"
+    if data < hoje:
+        return "DATA PASSOU"
+    if data == hoje:
+        return "hoje às 18h"
+    return "agendado"
+
+
+ICONES = {"publicado": "✅ Publicado", "pausado": "⏸️ Pausado", "DATA PASSOU": "⚠️ Data passou, não publicado",
+          "hoje às 18h": "🕕 Hoje às 18h", "agendado": "🗓️ Agendado"}
+DIAS = ["segunda", "terça", "quarta", "quinta", "sexta", "sábado", "domingo"]
+
+
+def gerar_pagina(entradas):
+    """Escreve CALENDARIO.md: imagens, legenda e situação de cada publicação."""
+    publicados, pausa = ler_publicados(), pausados()
+    linhas = [
+        "# Próximas publicações – Apadrinhe a Educação",
+        "",
+        f"Instagram @osoconsolador · todos os posts às 18h de Brasília · atualizado em {agora():%d/%m/%Y %H:%M}",
+        "",
+    ]
+    for e in entradas:
+        sit = situacao(e["data"], publicados, pausa)
+        d = datetime.strptime(e["data"], "%Y-%m-%d")
+        tipo = "Carrossel" if e["tipo"] == "carrossel" else "Post único"
+        if len(e["arquivos"]) > 1:
+            tipo += f" · {len(e['arquivos'])} slides"
+        linhas += [f"## {d:%d/%m} ({DIAS[d.weekday()]}) · {tipo}", "", f"**{ICONES[sit]}**"]
+        if sit == "publicado" and publicados[e["data"]].get("link"):
+            linhas[-1] += f" · [ver no Instagram]({publicados[e['data']]['link']})"
+        linhas += ["", " ".join(f'<img src="posts/{n}" width="180">' for n in e["arquivos"]), ""]
+        legenda = e["legenda"] or "(SEM LEGENDA)"
+        # Dois espaços no fim da linha mantêm as quebras de linha da legenda.
+        linhas += [f"> {l}  " if l else ">" for l in legenda.split("\n")]
+        linhas += ["", "---", ""]
+    (RAIZ / "CALENDARIO.md").write_text("\n".join(linhas), encoding="utf-8")
+
+
+def dry_run(entradas, problemas):
     publicados, pausa = ler_publicados(), pausados()
     print(f"{'Data':<11} {'Tipo':<11} {'Slides':>6}  {'Situação':<15} Início da legenda")
     print("-" * 100)
     for e in entradas:
-        if e["data"] in publicados:
-            sit = "publicado"
-        elif e["data"] in pausa:
-            sit = "pausado"
-        elif e["data"] < hoje:
-            sit = "DATA PASSOU"
-        elif e["data"] == hoje:
-            sit = "hoje às 18h"
-        else:
-            sit = "agendado"
+        sit = situacao(e["data"], publicados, pausa)
         inicio = (e["legenda"] or "(SEM LEGENDA)").split("\n")[0][:55]
         print(f"{e['data']:<11} {e['tipo']:<11} {len(e['arquivos']):>6}  {sit:<15} {inicio}")
     print(f"\n{len(entradas)} publicações, {sum(len(e['arquivos']) for e in entradas)} imagens. Nada foi publicado (--dry-run).")
@@ -296,6 +330,7 @@ def principal():
 
     entradas, problemas = montar_calendario()
     if a.dry_run:
+        gerar_pagina(entradas)
         return dry_run(entradas, problemas)
     if a.verificar_token:
         sys.exit(0 if verificar_token() else 1)
@@ -326,6 +361,7 @@ def principal():
     else:
         falhou = not publicar_com_tentativas(entrada)
 
+    gerar_pagina(entradas)
     for prob in problemas:
         aviso(prob)
     if falhou or problemas:

@@ -2,6 +2,8 @@
 
 Todo dia às 18h de Brasília, o GitHub publica no Instagram o post do dia, com a legenda certa.
 
+👉 **[Ver as próximas publicações (imagens + legendas)](CALENDARIO.md)**
+
 - `posts/`: as imagens (JPEG) e as legendas (`posts/legendas.md`)
 - `calendario.json`: o calendário, montado automaticamente a partir das imagens e das legendas
 - `publicados.json`: o que já foi publicado, com o ID do post, o link e o horário
