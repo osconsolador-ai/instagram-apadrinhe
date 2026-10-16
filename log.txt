@@ -1,2 +1,4 @@
 [2026-10-15 18:21:54] 2026-10-15: publicando (post único, 1 imagem(ns)), tentativa 1
 [2026-10-15 18:22:03] 2026-10-15: PUBLICADO. ID 18097133093429015 https://www.instagram.com/p/Deh6a3aGFZy/
+[2026-10-16 18:19:03] 2026-10-16: publicando (carrossel, 3 imagem(ns)), tentativa 1
+[2026-10-16 18:20:29] 2026-10-16: PUBLICADO. ID 18340808401260505 https://www.instagram.com/p/DekfB_5iU7z/
