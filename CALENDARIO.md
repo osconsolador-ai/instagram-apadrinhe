@@ -1,10 +1,10 @@
 # Próximas publicações – Apadrinhe a Educação
 
-Instagram @osoconsolador · todos os posts às 18h de Brasília · atualizado em 14/10/2026 11:58
+Instagram @osoconsolador · todos os posts às 18h de Brasília · atualizado em 03/11/2026 09:55
 
 ## 15/10 (quinta) · Post único
 
-**🗓️ Agendado**
+**✅ Publicado** · [ver no Instagram](https://www.instagram.com/p/Deh6a3aGFZy/)
 
 <img src="posts/2026-10-15_dia_do_professor.jpg" width="180">
 
@@ -17,7 +17,7 @@ Instagram @osoconsolador · todos os posts às 18h de Brasília · atualizado em
 
 ## 16/10 (sexta) · Carrossel · 3 slides
 
-**🗓️ Agendado**
+**✅ Publicado** · [ver no Instagram](https://www.instagram.com/p/DekfB_5iU7z/)
 
 <img src="posts/2026-10-16_onde_vai_slide1.jpg" width="180"> <img src="posts/2026-10-16_onde_vai_slide2.jpg" width="180"> <img src="posts/2026-10-16_onde_vai_slide3.jpg" width="180">
 
@@ -31,7 +31,7 @@ Instagram @osoconsolador · todos os posts às 18h de Brasília · atualizado em
 
 ## 19/10 (segunda) · Carrossel · 2 slides
 
-**🗓️ Agendado**
+**✅ Publicado** · [ver no Instagram](https://www.instagram.com/p/DesNb0vAeqa/)
 
 <img src="posts/2026-10-19_equipe_slide1.jpg" width="180"> <img src="posts/2026-10-19_equipe_slide2.jpg" width="180">
 
@@ -44,7 +44,7 @@ Instagram @osoconsolador · todos os posts às 18h de Brasília · atualizado em
 
 ## 21/10 (quarta) · Carrossel · 3 slides
 
-**🗓️ Agendado**
+**✅ Publicado** · [ver no Instagram](https://www.instagram.com/p/DexXJdIDEgp/)
 
 <img src="posts/2026-10-21_tres_formas_slide1.jpg" width="180"> <img src="posts/2026-10-21_tres_formas_slide2.jpg" width="180"> <img src="posts/2026-10-21_tres_formas_slide3.jpg" width="180">
 
@@ -59,7 +59,7 @@ Instagram @osoconsolador · todos os posts às 18h de Brasília · atualizado em
 
 ## 23/10 (sexta) · Post único
 
-**🗓️ Agendado**
+**✅ Publicado** · [ver no Instagram](https://www.instagram.com/p/De2gqmCjPGV/)
 
 <img src="posts/2026-10-23_por_que_fazemos.jpg" width="180">
 
@@ -72,7 +72,7 @@ Instagram @osoconsolador · todos os posts às 18h de Brasília · atualizado em
 
 ## 26/10 (segunda) · Carrossel · 2 slides
 
-**🗓️ Agendado**
+**✅ Publicado** · [ver no Instagram](https://www.instagram.com/p/De-iyngFw8E/)
 
 <img src="posts/2026-10-26_nossa_historia_slide1.jpg" width="180"> <img src="posts/2026-10-26_nossa_historia_slide2.jpg" width="180">
 
@@ -80,45 +80,6 @@ Instagram @osoconsolador · todos os posts às 18h de Brasília · atualizado em
 > Foram 21 anos de assistência social e, desde 2021, a Escola Espírita Léon Denis oferece educação gratuita e acolhimento integral para as crianças da comunidade. Hoje a escola atende cerca de 80 crianças, da Educação Infantil até o 2º ano do Ensino Fundamental.  
 > Faça parte dessa história. Link na bio. 💙  
 > #ApadrinheAEducação #OConsolador #NossaHistória  
-
----
-
-## 28/10 (quarta) · Carrossel · 2 slides
-
-**🗓️ Agendado**
-
-<img src="posts/2026-10-28_dois_jeitos_slide1.jpg" width="180"> <img src="posts/2026-10-28_dois_jeitos_slide2.jpg" width="180">
-
-> Toda ajuda faz a diferença. 💛  
-> Você pode ajudar com uma doação pontual, quando puder, ou apadrinhando todo mês, a partir de R$ 20. O apadrinhamento acompanha a criança o ano inteiro e ajuda a escola a se organizar com tranquilidade.  
-> Escolha o seu jeito de ajudar. Link na bio. 🧡  
-> #ApadrinheAEducação #OConsolador #TodaAjudaConta  
-
----
-
-## 30/10 (sexta) · Post único
-
-**🗓️ Agendado**
-
-<img src="posts/2026-10-30_sorrisos.jpg" width="180">
-
-> Cada sorriso aqui tem uma história. 😊💛  
-> Na Escola Espírita Léon Denis, as crianças do Sol Nascente encontram acolhimento, aprendizado e carinho todos os dias.  
-> Você pode ajudar a manter esses sorrisos. Apadrinhe a partir de R$ 20/mês. Link na bio.  
-> #ApadrinheAEducação #OConsolador #EscolaLéonDenis #SolNascente  
-
----
-
-## 02/11 (segunda) · Carrossel · 2 slides
-
-**🗓️ Agendado**
-
-<img src="posts/2026-11-02_escola_por_dentro_slide1.jpg" width="180"> <img src="posts/2026-11-02_escola_por_dentro_slide2.jpg" width="180">
-
-> Venha conhecer a nossa escola por dentro! 🏫  
-> Salas, parquinho, musicalização: tudo pensado para as crianças crescerem e aprenderem com carinho.  
-> 👉 Apadrinhe e ajude a manter essa estrutura. Link na bio.  
-> #ApadrinheAEducação #OConsolador #EscolaLéonDenis  
 
 ---
 
@@ -142,6 +103,19 @@ Instagram @osoconsolador · todos os posts às 18h de Brasília · atualizado em
 
 ---
 
+## 06/11 (sexta) · Carrossel · 2 slides
+
+**🗓️ Agendado**
+
+<img src="posts/2026-11-06_escola_por_dentro_slide1.jpg" width="180"> <img src="posts/2026-11-06_escola_por_dentro_slide2.jpg" width="180">
+
+> Venha conhecer a nossa escola por dentro! 🏫  
+> Salas, parquinho, musicalização: tudo pensado para as crianças crescerem e aprenderem com carinho.  
+> 👉 Apadrinhe e ajude a manter essa estrutura. Link na bio.  
+> #ApadrinheAEducação #OConsolador #EscolaLéonDenis  
+
+---
+
 ## 09/11 (segunda) · Carrossel · 2 slides
 
 **🗓️ Agendado**
@@ -158,6 +132,19 @@ Instagram @osoconsolador · todos os posts às 18h de Brasília · atualizado em
 > Chame no direct ou acesse o link da bio.  
 >
 > #Voluntariado #ApadrinheAEducação #OConsolador #EscolaLéonDenis  
+
+---
+
+## 10/11 (terça) · Carrossel · 2 slides
+
+**🗓️ Agendado**
+
+<img src="posts/2026-11-10_dois_jeitos_slide1.jpg" width="180"> <img src="posts/2026-11-10_dois_jeitos_slide2.jpg" width="180">
+
+> Toda ajuda faz a diferença. 💛  
+> Você pode ajudar com uma doação pontual, quando puder, ou apadrinhando todo mês, a partir de R$ 20. O apadrinhamento acompanha a criança o ano inteiro e ajuda a escola a se organizar com tranquilidade.  
+> Escolha o seu jeito de ajudar. Link na bio. 🧡  
+> #ApadrinheAEducação #OConsolador #TodaAjudaConta  
 
 ---
 
@@ -191,6 +178,19 @@ Instagram @osoconsolador · todos os posts às 18h de Brasília · atualizado em
 >
 > Apadrinhar ajuda a manter essa rotina todos os dias. Link na bio.  
 >
+> #ApadrinheAEducação #OConsolador #EscolaLéonDenis #SolNascente  
+
+---
+
+## 16/11 (segunda) · Post único
+
+**🗓️ Agendado**
+
+<img src="posts/2026-11-16_sorrisos.jpg" width="180">
+
+> Cada sorriso aqui tem uma história. 😊💛  
+> Na Escola Espírita Léon Denis, as crianças do Sol Nascente encontram acolhimento, aprendizado e carinho todos os dias.  
+> Você pode ajudar a manter esses sorrisos. Apadrinhe a partir de R$ 20/mês. Link na bio.  
 > #ApadrinheAEducação #OConsolador #EscolaLéonDenis #SolNascente  
 
 ---

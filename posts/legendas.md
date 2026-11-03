@@ -39,19 +39,19 @@ Foram 21 anos de assistência social e, desde 2021, a Escola Espírita Léon Den
 Faça parte dessa história. Link na bio. 💙
 #ApadrinheAEducação #OConsolador #NossaHistória
 
-## 28/10 – Carrossel "Dois jeitos de ajudar" (2 slides)
+## 10/11 – Carrossel "Dois jeitos de ajudar" (2 slides)
 Toda ajuda faz a diferença. 💛
 Você pode ajudar com uma doação pontual, quando puder, ou apadrinhando todo mês, a partir de R$ 20. O apadrinhamento acompanha a criança o ano inteiro e ajuda a escola a se organizar com tranquilidade.
 Escolha o seu jeito de ajudar. Link na bio. 🧡
 #ApadrinheAEducação #OConsolador #TodaAjudaConta
 
-## 30/10 – Sorrisos que a escola faz nascer (post único)  [no lugar do 'antes e depois', que precisa de história real]
+## 16/11 – Sorrisos que a escola faz nascer (post único)  [no lugar do 'antes e depois', que precisa de história real]
 Cada sorriso aqui tem uma história. 😊💛
 Na Escola Espírita Léon Denis, as crianças do Sol Nascente encontram acolhimento, aprendizado e carinho todos os dias.
 Você pode ajudar a manter esses sorrisos. Apadrinhe a partir de R$ 20/mês. Link na bio.
 #ApadrinheAEducação #OConsolador #EscolaLéonDenis #SolNascente
 
-## 02/11 – Carrossel "Conheça a escola por dentro" (2 slides)
+## 06/11 – Carrossel "Conheça a escola por dentro" (2 slides)
 Venha conhecer a nossa escola por dentro! 🏫
 Salas, parquinho, musicalização: tudo pensado para as crianças crescerem e aprenderem com carinho.
 👉 Apadrinhe e ajude a manter essa estrutura. Link na bio.
