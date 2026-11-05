@@ -10,3 +10,5 @@
 [2026-10-23 18:21:03] 2026-10-23: PUBLICADO. ID 18143153497611249 https://www.instagram.com/p/De2gqmCjPGV/
 [2026-10-26 21:12:44] 2026-10-26: publicando (carrossel, 2 imagem(ns)), tentativa 1
 [2026-10-26 21:13:36] 2026-10-26: PUBLICADO. ID 18009159116781618 https://www.instagram.com/p/De-iyngFw8E/
+[2026-11-04 22:15:27] 2026-11-04: publicando (carrossel, 3 imagem(ns)), tentativa 1
+[2026-11-04 22:15:49] 2026-11-04: PUBLICADO. ID 18118711955081318 https://www.instagram.com/p/DfV1Eb3kcuE/
