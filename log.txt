@@ -18,3 +18,7 @@
 [2026-11-10 22:01:08] 2026-11-10: PUBLICADO. ID 18170712016484374 https://www.instagram.com/p/DflQGR0DdVQ/
 [2026-11-11 23:06:06] 2026-11-11: publicando (carrossel, 2 imagem(ns)), tentativa 1
 [2026-11-11 23:08:03] 2026-11-11: PUBLICADO. ID 18110138159255638 https://www.instagram.com/p/Dfn8jBiGHaN/
+[2026-11-13 22:14:06] 2026-11-13: publicando (post único, 1 imagem(ns)), tentativa 1
+[2026-11-13 22:14:13] 2026-11-13: FALHOU na tentativa 1: Meta respondeu 400: Media ID is not available (código 9007/2207027)
+[2026-11-13 22:19:13] 2026-11-13: publicando (post único, 1 imagem(ns)), tentativa 2
+[2026-11-13 22:19:22] 2026-11-13: PUBLICADO. ID 18116570654112870 https://www.instagram.com/p/DftAoX0kd_o/

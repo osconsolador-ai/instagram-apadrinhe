@@ -1,6 +1,6 @@
 # Próximas publicações – Apadrinhe a Educação
 
-Instagram @osoconsolador · todos os posts às 18h de Brasília · atualizado em 12/11/2026 22:38
+Instagram @osoconsolador · todos os posts às 18h de Brasília · atualizado em 13/11/2026 22:19
 
 ## 15/10 (quinta) · Post único
 
@@ -168,7 +168,7 @@ Instagram @osoconsolador · todos os posts às 18h de Brasília · atualizado em
 
 ## 13/11 (sexta) · Post único
 
-**🗓️ Agendado**
+**✅ Publicado** · [ver no Instagram](https://www.instagram.com/p/DftAoX0kd_o/)
 
 <img src="posts/2026-11-13_rotina_do_cuidado.jpg" width="180">
 
