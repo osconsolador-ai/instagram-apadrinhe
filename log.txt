@@ -22,3 +22,5 @@
 [2026-11-13 22:14:13] 2026-11-13: FALHOU na tentativa 1: Meta respondeu 400: Media ID is not available (código 9007/2207027)
 [2026-11-13 22:19:13] 2026-11-13: publicando (post único, 1 imagem(ns)), tentativa 2
 [2026-11-13 22:19:22] 2026-11-13: PUBLICADO. ID 18116570654112870 https://www.instagram.com/p/DftAoX0kd_o/
+[2026-11-18 23:13:54] 2026-11-18: publicando (carrossel, 2 imagem(ns)), tentativa 1
+[2026-11-18 23:15:13] 2026-11-18: PUBLICADO. ID 18160747561512146 https://www.instagram.com/p/Df5-_xeoTUB/
