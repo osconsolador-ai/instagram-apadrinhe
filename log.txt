@@ -24,3 +24,5 @@
 [2026-11-13 22:19:22] 2026-11-13: PUBLICADO. ID 18116570654112870 https://www.instagram.com/p/DftAoX0kd_o/
 [2026-11-18 23:13:54] 2026-11-18: publicando (carrossel, 2 imagem(ns)), tentativa 1
 [2026-11-18 23:15:13] 2026-11-18: PUBLICADO. ID 18160747561512146 https://www.instagram.com/p/Df5-_xeoTUB/
+[2026-11-20 22:56:59] 2026-11-20: publicando (carrossel, 2 imagem(ns)), tentativa 1
+[2026-11-20 22:58:17] 2026-11-20: PUBLICADO. ID 18133436269695801 https://www.instagram.com/p/Df_Gl1WDATm/

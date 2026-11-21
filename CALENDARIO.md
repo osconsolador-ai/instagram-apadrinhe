@@ -1,6 +1,6 @@
 # Próximas publicações – Apadrinhe a Educação
 
-Instagram @osoconsolador · todos os posts às 18h de Brasília · atualizado em 19/11/2026 22:59
+Instagram @osoconsolador · todos os posts às 18h de Brasília · atualizado em 20/11/2026 22:58
 
 ## 15/10 (quinta) · Post único
 
@@ -217,7 +217,7 @@ Instagram @osoconsolador · todos os posts às 18h de Brasília · atualizado em
 
 ## 20/11 (sexta) · Carrossel · 2 slides
 
-**🗓️ Agendado**
+**✅ Publicado** · [ver no Instagram](https://www.instagram.com/p/Df_Gl1WDATm/)
 
 <img src="posts/2026-11-20_consciencia_negra_slide1.jpg" width="180"> <img src="posts/2026-11-20_consciencia_negra_slide2.jpg" width="180">
 
