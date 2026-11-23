@@ -1,6 +1,6 @@
 # Próximas publicações – Apadrinhe a Educação
 
-Instagram @osoconsolador · todos os posts às 18h de Brasília · atualizado em 21/11/2026 21:54
+Instagram @osoconsolador · todos os posts às 18h de Brasília · atualizado em 22/11/2026 22:22
 
 ## 15/10 (quinta) · Post único
 
